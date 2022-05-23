@@ -1,0 +1,4 @@
+services:
+  add_custom.slug_custom_slugify: 
+    class: Drupal\add_custom\SlugCustomFormatter
+    

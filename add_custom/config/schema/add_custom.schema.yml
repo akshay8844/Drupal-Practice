@@ -1,0 +1,7 @@
+field.formatter.settings.slug_custom:
+  type: mapping
+  label: 'Slug Custom text length'
+  mapping:
+    text_length:
+      type: string
+      label: 'Custom Slug'

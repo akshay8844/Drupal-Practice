@@ -1,0 +1,7 @@
+name: Add Custom Field Formatter
+type: module
+description: Module adding a custom field for text to return it as a slug.
+core_version_requirement: ^8.8 || ^9.0
+package: custom
+dependencies:
+  - field
